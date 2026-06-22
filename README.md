@@ -151,10 +151,10 @@ Random Forest 在三类模型中表现最佳，验证了利用公开视频数据
 youtube-viral-video-analysis
 │
 ├── README.md
-├── framework.png
-├── youtube_analysis.ipynb
-├── youtube_analysis.html
-└── YouTube爆款视频形成机制分析与热门内容预测.pdf
+├── YouTube 热门视频爆款影响因素分析与识别模型构建.ipynb
+├── YouTube 热门视频爆款影响因素分析与识别模型构建.html
+├── USvideos.csv
+├── US_category_id.json
 ```
 
 ---
