@@ -1,7 +1,5 @@
 # youtube-viral-video-analysis
 YouTube Viral Video Analysis and Popular Content Prediction
-# YouTube爆款视频形成机制分析与热门内容预测
-
 ## 项目简介
 
 本项目基于 YouTube Trending 数据集，通过数据分析与机器学习方法，探索影响视频成为爆款的关键因素，并构建热门内容预测模型。
